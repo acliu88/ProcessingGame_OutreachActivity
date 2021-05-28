@@ -3,7 +3,7 @@
 
 String txt_file = "default_track.txt";
 String song_name = "httyd_testDrive.mp3";
-int speed = 100;
+int speed = 600;
 int hardMode = 0;
 
 //-------------------------------------------------------------------------------------------
